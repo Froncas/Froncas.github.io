@@ -42,8 +42,7 @@
         <h1>Podziękowanie</h1>
         <p>Dziękujemy za cały rok nauki i wsparcia! Dzięki Tobie zdobyliśmy wiele nowych umiejętności i inspiracji.</p>
         <div class="images">
-            <img src="zdjecie1.jpg" alt="Wspomnienie 1">
-            <img src="zdjecie2.jpg" alt="Wspomnienie 2">
+           
         </div>
         <p>Życzymy miłych wakacji i wielu sukcesów w dalszej pracy!</p>
     </div>

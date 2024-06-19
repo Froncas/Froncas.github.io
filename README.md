@@ -40,7 +40,7 @@
 <body>
     <div class="container">
         <h1>Podziękowanie</h1>
-        <p>Dziękujemy za cały rok nauki i wsparcia! Dzięki Tobie zdobyliśmy wiele nowych umiejętności i inspiracji.</p>
+        <p>Dziękujemy za cały rok nauki i wsparcia! Dzięki Panu zdobyliśmy wiele nowych umiejętności i inspiracji.</p>
         <div class="images">
            
         </div>

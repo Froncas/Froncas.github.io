@@ -41,7 +41,8 @@
     <div class="container">
         <h1>Podziękowanie</h1>
         <p>Dziękujemy za cały rok nauki i wsparcia! Dzięki Panu zdobyliśmy wiele nowych umiejętności i inspiracji.</p>
-        <div class="images">
+        <p>Klasa 8b 2023/2024</p>
+        
            
         </div>
         <p>Życzymy miłych wakacji i wielu sukcesów w dalszej pracy!</p>

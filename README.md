@@ -46,8 +46,6 @@
            
         </div>
         <p>Życzymy miłych wakacji i wielu sukcesów w dalszej pracy!</p>
-    </div>
-      </div>
       <p>Klasa 8b 2023/2024.</p>
       </div>
 </body>

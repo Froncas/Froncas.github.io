@@ -40,8 +40,9 @@
 <body>
     <div class="container">
         <h1>Podziękowanie</h1>
-        <p>Dziękujemy za cały rok nauki i wsparcia! Dzięki Panu zdobyliśmy wiele nowych umiejętności i inspiracji.</p>
-        <p>Klasa 8b 2023/2024</p>
+        <p>Dziękujemy za cały rok nauki i wsparcia! Dzięki Panu zdobyliśmy wiele nowych umiejętności i inspiracji.
+        Klasa 8b 2023/2024</p>
+       
         
            
         </div>
